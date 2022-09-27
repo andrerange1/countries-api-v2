@@ -5211,11 +5211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\andrerangel-atividade\\CountriesAPI\\Countries.Contracts\\Countries.Contracts.csproj",
+      "projectUniqueName": "C:\\countries-api-v2\\Countries.Contracts\\Countries.Contracts.csproj",
       "projectName": "Countries.Contracts",
-      "projectPath": "C:\\andrerangel-atividade\\CountriesAPI\\Countries.Contracts\\Countries.Contracts.csproj",
+      "projectPath": "C:\\countries-api-v2\\Countries.Contracts\\Countries.Contracts.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\andrerangel-atividade\\CountriesAPI\\Countries.Contracts\\obj\\",
+      "outputPath": "C:\\countries-api-v2\\Countries.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5231,8 +5231,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\andrerangel-atividade\\CountriesAPI\\Countries.Domain\\Countries.Domain.csproj": {
-              "projectPath": "C:\\andrerangel-atividade\\CountriesAPI\\Countries.Domain\\Countries.Domain.csproj"
+            "C:\\countries-api-v2\\Countries.Domain\\Countries.Domain.csproj": {
+              "projectPath": "C:\\countries-api-v2\\Countries.Domain\\Countries.Domain.csproj"
             }
           }
         }

@@ -21,7 +21,6 @@ namespace Countries.Domain.Services
 
         public async Task<List<Country>> GetAllAsync()
         {
-            Country c = 
             return await _repository.GetAllAsync();
         }
 
