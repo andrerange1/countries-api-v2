@@ -10,17 +10,21 @@
         "projectUniqueName": "C:\\countries-api-v2\\Countries.Domain\\Countries.Domain.csproj",
         "projectName": "Countries.Domain",
         "projectPath": "C:\\countries-api-v2\\Countries.Domain\\Countries.Domain.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\andre.santos\\.nuget\\packages\\",
         "outputPath": "C:\\countries-api-v2\\Countries.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +66,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

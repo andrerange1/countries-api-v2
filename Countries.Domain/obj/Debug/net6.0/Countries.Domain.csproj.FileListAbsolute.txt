@@ -3,3 +3,15 @@ C:\andrerangel-atividade\CountriesAPI\Countries.Domain\obj\Debug\net6.0\Countrie
 C:\andrerangel-atividade\CountriesAPI\Countries.Domain\obj\Debug\net6.0\Countries.Domain.AssemblyInfoInputs.cache
 C:\andrerangel-atividade\CountriesAPI\Countries.Domain\obj\Debug\net6.0\Countries.Domain.AssemblyInfo.cs
 C:\andrerangel-atividade\CountriesAPI\Countries.Domain\obj\Debug\net6.0\Countries.Domain.csproj.CoreCompileInputs.cache
+C:\countries-api-v2\Countries.Domain\bin\Debug\net6.0\Countries.Domain.deps.json
+C:\countries-api-v2\Countries.Domain\bin\Debug\net6.0\Countries.Domain.dll
+C:\countries-api-v2\Countries.Domain\bin\Debug\net6.0\Countries.Domain.pdb
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.csproj.AssemblyReference.cache
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.AssemblyInfoInputs.cache
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.AssemblyInfo.cs
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.csproj.CoreCompileInputs.cache
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.dll
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\refint\Countries.Domain.dll
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\Countries.Domain.pdb
+C:\countries-api-v2\Countries.Domain\obj\Debug\net6.0\ref\Countries.Domain.dll

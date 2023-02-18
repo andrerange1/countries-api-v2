@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Countries.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Countries.Api.Controllers.CountriesController.GetAllAsync">
+             <summary>
+            (Questão 1A) List all countries.
+             </summary>
+             <returns>List all countries</returns>
+        </member>
+        <member name="M:Countries.Api.Controllers.CountriesController.GetAllNamesAsync">
+            <summary>
+            (Questão 1A)  List all countries names.
+            </summary>
+            <returns>List all countries names</returns>
+        </member>
+        <member name="M:Countries.Api.Controllers.CountriesController.FilterByNameOrInitialsOrCurrency(System.String,System.String,System.String)">
+            <summary>
+             (Questão 1C)    Filter Countries by name and initials and currency. In case of no parameters returns the entire list.
+            </summary>
+            <returns></returns>
+            <param name="name"></param>
+            <param name="initials"></param>
+            <param name="currency"></param>
+        </member>
+        <member name="M:Countries.Api.Controllers.CountriesController.DetailFilterByNameOrInitialsOrCurrency(System.String,System.String,System.String)">
+            <summary>
+             (Questão 1D)    Filter Countries by name and initials and currency. In case of no parameters returns the entire list.
+            </summary>
+            <returns></returns>
+            <param name="name"></param>
+            <param name="initials"></param>
+            <param name="currency"></param>
+        </member>
+        <member name="M:Countries.Api.Controllers.CountriesController.CreateRoute(System.String,System.String)">
+            <summary>
+            (Questão 2) Creates the best route between two given countries.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

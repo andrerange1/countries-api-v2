@@ -1,0 +1,17 @@
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Aplication.deps.json
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Aplication.dll
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Aplication.pdb
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Contracts.dll
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Domain.dll
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Contracts.pdb
+C:\countries-api-v2\Countries.Aplication\bin\Debug\net6.0\Countries.Domain.pdb
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.csproj.AssemblyReference.cache
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.AssemblyInfoInputs.cache
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.AssemblyInfo.cs
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.csproj.CoreCompileInputs.cache
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.csproj.CopyComplete
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.dll
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\refint\Countries.Aplication.dll
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\Countries.Aplication.pdb
+C:\countries-api-v2\Countries.Aplication\obj\Debug\net6.0\ref\Countries.Aplication.dll
